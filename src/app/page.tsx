@@ -24,7 +24,7 @@ const PRODUCTS = [
   {
     id: 'ginllcloud',
     name: 'GinllCloud',
-    description: 'Infrastructure & Hosting. Regional cloud solutions and high-performance regional delivery.',
+    description: 'Infrastructure & Hosting. Regional cloud solutions and high performance regional delivery.',
     icon: <Cloud className="w-8 h-8 text-blue-500" />,
     path: '/products/ginllcloud'
   }
